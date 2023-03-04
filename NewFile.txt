@@ -1,2 +1,3 @@
-test
-info
+ID| Steps| Exp| Act|
+
+1| Go| Yes| No|
